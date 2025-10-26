@@ -11,6 +11,7 @@
     <!-- -->
     <!-- -->
     <!-- ２０２５ -->
+    <!-- ２０２５ -->
     <properties>
         <java.version>21</java.version>
         <maven.compiler.target>${java.version}</maven.compiler.target>
